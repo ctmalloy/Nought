@@ -11,6 +11,7 @@ React Native Nought to 60mph/100kph
   * React Native Material Design (https://github.com/react-native-material-design/react-native-material-design)
   * React Elements (https://github.com/react-native-training/react-native-elements)
   * NativeBase (https://github.com/GeekyAnts/NativeBase)
+  * React Native Animatable (https://github.com/oblador/react-native-animatable)
   
 **For Reference**
   * Awesome React Native (https://github.com/jondot/awesome-react-native)
