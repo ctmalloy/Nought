@@ -1,0 +1,4 @@
+#Tue Jun 06 00:03:09 EDT 2017
+base.0=/home/conner/Documents/Nought/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/conner/Documents/Nought/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

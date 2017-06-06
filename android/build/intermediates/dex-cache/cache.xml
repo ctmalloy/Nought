@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_a57df1daca67e8f2afb082d3391f1a9667062826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d1e822f38c69b1fba79393646d85957d015c80e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_f7a630463075461185068670701b0dbcacc0fc8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_98a7db3acaabafcce89684f06ec825dedc7189b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_f0f6a3e4cdecb0696029d6742b7bcdbeae16b8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_bcd81cdd2218540fbc67f8d168295012cd7d7fc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_afe007dae1bedbed1df0abe8c0bed67bf765f9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_4b0239ad96c4ff82eb0ccd747b5d7e379893004d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_77a71d909b0340279aafb9ba42461f9c1bf1067b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_802247677b88ae616c78c0aa9e665d2add2659f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d654acd606610a4d7ddb00807edf498a4cd023bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_e654b00f1c80091a10f05b4f8a970ab205912fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2ff8e09d2326b86d28f64fa2bcd65e4efffe3073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_cc06cfc8002ad092dc3e0325f2c2fac175aefe77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.2_6b3f6d08b0507764ede5a49dcbf4916f2abb9913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_55c827aa3ffcb446dc80c6b634e8f0b21270265e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c16d78b0e80a5597f9925b069f2b553afbd0ef70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_309f7e6d4fca4aa45f8fb9163dc7c2bdb32bab8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_bbe429200054864fbbb86964aaa9fa5833740aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_a67e5290b2372bb760ed838372e598f359122078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/Documents/Nought/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_1322e8cb9790d6612498ef873e428eddc3752330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/conner/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/conner/Documents/Nought/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_d1462df2a9dacb51402b26917bf5c0e053171b79.jar" />
+    </item>
+
+</items>
